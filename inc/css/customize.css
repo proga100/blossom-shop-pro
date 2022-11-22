@@ -1,0 +1,64 @@
+/** For hiding video section notice */
+#sub-accordion-section-header_image .customize-section-description-container .customize-section-title .customize-control-notifications-container{
+    visibility: hidden;
+    height: 0;    
+}
+
+#sub-accordion-section-sidebar-widgets-service .customize-section-description{
+	display: none;
+}
+
+#sub-accordion-section-sidebar-widgets-about .customize-section-description{
+	display: none;
+}
+
+#sub-accordion-section-sidebar-widgets-testimonial .customize-section-description{
+	display: none;
+}
+
+#sub-accordion-section-sidebar-widgets-cta .customize-section-description{
+	display: none;
+}
+
+#sub-accordion-section-sidebar-widgets-about-testimonial .customize-section-description{
+	display: none;
+}
+
+#customize-control-header_layout label img,
+#customize-control-slider_layout label img,
+#customize-control-blog_layout label img,
+#customize-control-single_product_layout label img, 
+#customize-control-service_layout label img, 
+#customize-control-featured_layout label img, 
+#customize-control-recent_product_layout label img, 
+#customize-control-popular_product_layout label img,
+#customize-control-cat_one_layout label img,
+#customize-control-cat_two_layout label img,
+#customize-control-about_layout label img,
+#customize-control-cat_three_layout label img,
+#customize-control-cat_four_layout label img,
+#customize-control-testimonial_layout label img,
+#customize-control-cta_layout label img {
+    border-width: 2px;
+    margin-bottom: 10px;
+}
+
+#customize-controls .customize-info .customize-search-toggle{
+	font-size: 26px;
+}
+.search-field-wrapper input[type="text"]{
+	padding: 7px 10px;
+}
+.search-field-wrapper button[type="button"]{
+	padding: 7px 15px;
+}
+
+/* For inter linking in customizer control */
+.text-inner-link{
+    text-decoration: underline;
+     color: #0073aa;
+ }
+.text-inner-link:hover{
+     color: #00a0d2;
+     cursor: pointer;
+}

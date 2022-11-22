@@ -1,0 +1,36 @@
+[30-Dec-2021 07:01:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php on line 9
+[01-Jan-2022 21:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php on line 9
+[03-Jan-2022 11:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php on line 9
+[05-Jan-2022 23:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php on line 9
+[06-Jan-2022 19:03:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php on line 9
+[23-Jan-2022 03:01:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php on line 9
+[24-Jan-2022 20:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php on line 9
+[03-Feb-2022 15:17:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/404.php on line 9
+[21-Aug-2022 04:58:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/lajollavisions/public_html/pepperqueenfarms.com/wp-content/themes/blossom-shop-pro/index.php on line 15

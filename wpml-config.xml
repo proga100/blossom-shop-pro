@@ -1,0 +1,113 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_blossom-shop-pro">
+            <key name="blogname" />
+            <key name="blogdescription" />
+            <key name="load_more_label" />
+            <key name="loading_label" />
+            <key name="no_more_label" />
+            <key name="slider_readmore" />
+            <key name="banner_title"/>
+            <key name="banner_subtitle"/>
+            <key name="banner_label"/>
+            <key name="banner_link"/>
+            <key name="banner_newsletter"/>
+            <key name="slider_custom">
+                <key name="*">
+                    <key name="title" />
+                    <key name="subtitle" /> 
+                    <key name="link" /> 
+                </key>                
+            </key>
+            <key name="recent_product_title"/>
+            <key name="recent_product_subtitle"/>
+            <key name="recent_product_featured_title"/>
+            <key name="recent_product_featured_subtitle"/>
+            <key name="recent_product_featured_label"/>
+            <key name="featured_button_title"/>
+            <key name="featured_custom">
+                <key name="*">
+                    <key name="title" />
+                    <key name="link" /> 
+                </key>                
+            </key>
+
+            <key name="popular_product_title"/>
+            <key name="popular_product_subtitle"/>
+            <key name="popular_product_featured_title"/>
+            <key name="popular_product_featured_subtitle"/>
+            <key name="popular_product_featured_label"/>
+            <key name="popular_product_featured_url"/>
+            <key name="popular_product_all"/>
+            <key name="prod_deal_title"/>
+            <key name="prod_deal_subtitle"/>
+            <key name="prod_deal_button"/>
+            <key name="prod_deal_button_url"/>
+            <key name="cat_one_title"/>
+            <key name="cat_one_subtitle"/>
+            <key name="cat_one_featured_title"/>
+            <key name="cat_one_featured_subtitle"/>
+            <key name="cat_one_featured_label"/>
+            <key name="cat_one_all"/>
+            <key name="cat_one_featured_url"/>
+            <key name="cat_two_title"/>
+            <key name="cat_two_subtitle"/>
+            <key name="cat_two_featured_title"/>
+            <key name="cat_two_featured_subtitle"/>
+            <key name="cat_two_featured_label"/>
+            <key name="cat_two_all"/>
+            <key name="cat_two_featured_url"/>
+            <key name="cat_three_title"/>
+            <key name="cat_three_subtitle"/>
+            <key name="cat_three_featured_title"/>
+            <key name="cat_three_featured_subtitle"/>
+            <key name="cat_three_featured_label"/>
+            <key name="cat_three_all"/>
+            <key name="cat_three_featured_url"/>
+            <key name="cat_four_subtitle"/>
+            <key name="cat_four_featured_title"/>
+            <key name="cat_four_featured_subtitle"/>
+            <key name="cat_four_featured_label"/>
+            <key name="cat_four_all"/>
+            <key name="cat_four_featured_url"/>
+            <key name="testimonial_title"/>
+            <key name="testimonial_subtitle"/>
+            <key name="blog_section_title"/>
+            <key name="blog_section_subtitle"/>
+            <key name="blog_readmore"/>
+            <key name="blog_view_all"/>
+            <key name="label_service"/>
+            <key name="label_recent"/>
+            <key name="label_featured"/>
+            <key name="label_popular"/>
+            <key name="label_deal"/>
+            <key name="label_about"/>
+            <key name="label_testimonial"/>
+            <key name="label_cta"/>
+            <key name="label_blog"/>
+            <key name="label_client"/>
+            <key name="about_testi_title"/>
+            <key name="about_testi_subtitle"/>
+            <key name="notification_text"/>
+            <key name="notification_label"/>
+            <key name="notification_btn_url"/>
+            <key name="header_newsletter_shortcode"/>            
+            <key name="currency_switcher_shortcode"/>
+            <key name="language_switcher_shortcode"/>
+            <key name="sticky_text"/>
+            <key name="sticky_button"/>
+            <key name="share_title"/>
+            <key name="home_text"/>
+            <key name="read_more_text"/>
+            <key name="related_post_title"/>
+            <key name="sidebar">
+                <key name="*">
+                    <key name="name" /> 
+                </key>
+            </key>
+            <key name="newsletter_shortcode"/>
+            <key name="shop_archive_description"/>
+            <key name="footer_copyright"/>
+        </key>
+    </admin-texts>
+</wpml-config>

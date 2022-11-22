@@ -1,0 +1,156 @@
+.page {
+	
+	.site-content {
+		
+		> .page-header {
+			background-size: cover;
+			background-repeat: no-repeat;
+			padding-top: 100px;
+			padding-bottom: 100px;
+			position: relative;
+			z-index: 1;
+
+			&:before {
+				content: "";
+				background: rgba($black_color, 0.5);
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				z-index: -1;
+			}
+
+			.page-title {
+				font-family: $secondary_font;
+				color: $white_color;
+				font-weight: 600;
+			}//.page-title
+			
+		}//> .page-header
+
+		#primary, #secondary {
+			margin-top: 100px;
+		}
+	}//.site-content
+
+}//.page
+
+.page-template-about {
+
+	section.intro-about-section {
+
+		.widget:last-child {
+			margin-bottom: 0;
+		}
+
+		.widget-featured-holder {
+			display: flex;
+			flex-direction: column;
+			flex: auto;
+		}//.widget-featured-holder
+
+		.sub-title {
+			font-size: 0.7em;
+			font-weight: 700;
+			letter-spacing: 1px;
+			color: #202020;
+			display: block;
+			margin-bottom: 15px;
+		}
+
+		.widget-title {
+			order: 2;
+			max-width: 800px;
+			width: 100%;
+			margin: 0 auto 40px auto;
+			font-size: 3.2em;
+			font-family: $secondary_font;
+			font-weight: 400;
+			line-height: 1.25em;
+		}
+
+		.img-holder {
+			margin-bottom: 45px;
+		}//.post-thumbnail
+
+		.text-holder {
+			order: 3;
+		}
+
+		.featured_page_content {
+			max-width: 800px;
+			margin: 0 auto;
+
+			p {
+				margin-bottom: 25px;
+				margin-top: 0;
+			}
+
+		}//.featured_page_content
+
+		.right {
+			text-align: right;
+
+			.widget-title {
+				text-align: right;
+			}
+
+		}//.right
+
+		.left {
+
+			.widget-title {
+				text-align: left;
+			}
+
+		}//.left
+
+		.centered {
+			text-align: center;
+		}
+
+	}//section.intro-about-section
+	
+	.testimonial-section {
+		border-top: 1px solid rgba($black_color, 0.05);
+		padding-top: 100px;
+		margin-top: 0;
+	}//.testimonial-section
+
+}//.page-template-about
+
+@include media(xs) {
+	.page {
+		
+		.site-content {
+			
+			> .page-header {
+				padding-top: 60px;
+				padding-bottom: 60px;
+			}
+
+			#primary, #secondary {
+				margin-top: 60px;
+			}
+		}//.site-content
+
+	}//.page
+
+	.page-template-about {
+		
+		section.intro-about-section {
+			
+			.widget-title {
+				font-size: 2.5em;
+			}//.widget-title
+
+		}//section.intro-about-section
+
+		.testimonial-section {
+			padding-top: 60px;
+		}//.testimonial-section
+
+	}//.page-template-about
+
+}//media(xs)
